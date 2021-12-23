@@ -26,4 +26,7 @@
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=mmngreco&hide_border=true">
   <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=mmngreco&hide_border=true" />
 </a>
+<br>
+<img height="48%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mmngreco&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php,html">
+
 </p>

@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/mmngreco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mmngreco" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **ETS**
+- 🌱 I’m currently working at **ETS**
 
 - 💬 Ask me about **Programming, Vim, Economics, Running, Meditation, Yoga...**. Probably, I won't know the answer but I will be glad to learn something new. 
 

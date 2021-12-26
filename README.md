@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working at **ETS**
 
-- 💬 Ask me about **Programming, Vim, Economics, Running, Meditation, Yoga...**. Probably, I won't know the answer but I will be glad to learn something new. 
+- 💬 Ask me about **Programming, Vim, Economics, Running, Meditation, Yoga...**. (Probably, I won't know the answer but I will be glad to learn something new)
 
 - 📫 How to reach me **mmngreco gmail.com**
 

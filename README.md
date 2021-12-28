@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Programming, Vim, Economics, Running, Meditation, Yoga...**. (Probably, I won't know the answer but I will be glad to learn something new)
 
-- 📫 How to reach me **mmngreco gmail.com**
+- 📫 How to reach me **mmngreco gmail com**
 
 - 📄 Know about my experiences [**Resume here**](https://gitlab.com/mmngreco/resume/-/raw/master/resume.pdf?inline=false)
 

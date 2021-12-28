@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mmngreco gmail.com**
 
-- 📄 Know about my experiences [**Resume here**]()
+- 📄 Know about my experiences [**Resume here**](https://gitlab.com/mmngreco/resume/-/raw/master/resume.pdf?inline=false)
 
 - ⚡ Fun fact **I am economist who works as backend developer** ¯\\_ (ツ) _/¯
 

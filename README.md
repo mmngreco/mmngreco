@@ -3,6 +3,7 @@
 <h3 align="center">Data Engineer | Quantitative Developer | Backend developer</h3>
 
 <p align="center">
+ <a href="https://hachyderm.io/@mgreco" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/mastodon.svg" alt="mmngreco" height="30" width="40" /></a>
 <a href="https://twitter.com/mmngreco" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/twitter.svg" alt="mmngreco" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mmngreco" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" alt="mmngreco" height="30" width="40" /></a>
 </p>

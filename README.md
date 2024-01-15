@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/mmngreco" target="blank"><img align="center" src="https://unpkg.com/simple-icons@latest/icons/linkedin.svg" alt="mmngreco" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently working at **CARTO**
+- 🌱 I’m currently working at **Seedtag** 
 
 - 💬 Ask me about **Programming, Vim, Economics, Running, Meditation, Yoga...**. (I'm always glad to learn something new)
 

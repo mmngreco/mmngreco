@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maximiliano Greco</h1>
+<h1 align="center">Hi 👋, I'm Max</h1>
 
 <h3 align="center">MLOps | Data Engineer | Quantitative Developer | Backend developer</h3>
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **Programming, Vim, Economics, Running, Meditation, Yoga...**. (I'm always glad to learn something new)
 
 - 📫 How to reach me **mmngreco gmail com**
-
-- 📄 Know about my experiences [**Resume here**](https://gitlab.com/mmngreco/resume/-/raw/master/resume.pdf?inline=false)
 
 - ⚡ Fun fact **I am economist who works as backend developer** ¯\\_ (ツ) _/¯
 
